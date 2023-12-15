@@ -1,5 +1,7 @@
 import requests
+import pandas as pd
 from bs4 import BeautifulSoup
+
 
 
 def get_football_stats():
